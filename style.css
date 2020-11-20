@@ -1,0 +1,124 @@
+li {
+  list-style: none;
+}
+
+.site-header {
+  width: 100%;
+  position: absolute;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 20px;
+  padding: 20px 60px;
+  color: #FFA500;
+  text-decoration: none;
+}
+
+.header-list a {
+  color: #020202;
+  float: left;
+  padding: 15px 20px;
+  text-decoration: none;
+  border: none;
+}
+
+.header-list li:hover {
+  color: #847B6E;
+}
+
+
+.header-right a {
+  color: #fff;
+  float: left;
+  background-color: #FFA500;
+  transition: all 0.5s;
+  padding: 20px 30px;
+  border-radius: 30px;
+  text-decoration: none;
+  border: none;
+}
+
+.header-right a:hover {
+  background-color: #FFD07F;
+}
+
+.section-top-hero {
+    padding-top: 190px;
+    padding-bottom: 500px;
+    background-image: url(../images/top-hero.png);
+    background-size: auto 100%;
+    background-position: right 0;
+    background-repeat: no-repeat;
+}
+
+.content-width {
+    max-width: 1140px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.school {
+  float: left;
+  padding: 50px;
+}
+
+.school span {
+  color: #FFA500;
+}
+
+.No1-notation {
+  float: left;
+}
+
+.free a {
+  color: #fff;
+  float: left;
+  background-color: #FFA500;
+  transition: all 0.5s;
+  padding: 20px 80px;
+  border-radius: 30px;
+  text-decoration: none;
+  border: none;
+}
+
+.free a:hover {
+  background-color: #FFD07F;
+}
+
+.survey {
+  font-size: 3px;
+  float: left;
+  padding: 100px 50px 200px 0;
+}
+
+.main-section{
+  background-color: #FFA500;
+  padding-top: 65px;
+  padding-bottom: 80px;
+}
+
+.introduction {
+  padding: 150px 2px 2px 200px;
+  color: white;
+}
+
+.introduction a {
+  color: #FFA500;
+  float: right;
+  background-color: #fff;
+  transition: all 0.5s;
+  padding: 0 100px;
+  border-radius: 30px;
+  text-decoration: none;
+  border: none;
+}
+
+.introduction a:hover {
+  background-color: #FFD07F;
+}
